@@ -29,7 +29,7 @@ pip install git+https://github.com/NVlabs/nvdiffrast
 pip install git+https://github.com/ashawkey/cubvh
 ```
 
-To use [Deepfloyd-IF](https://github.com/deep-floyd/IF) models, please log in to your huggingface and accept the [license](https://huggingface.co/DeepFloyd/IF-I-XL-v1.0).
+To use [Deepfloyd-IF](https://github.com/deep-floyd/IF) models, please log in to your huggingface and accept the [license](https://huggingface.co/camenduru/IF-I-XL-v1.0).
 
 To install this package:
 ```bash

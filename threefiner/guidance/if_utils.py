@@ -18,7 +18,7 @@ class IF(nn.Module):
         device,
         fp16=True,
         vram_O=False,
-        model_key = "DeepFloyd/IF-I-XL-v1.0",
+        model_key = "camenduru/IF-I-XL-v1.0",
         # model_key = "DeepFloyd/IF-I-M-v1.0",
         t_range=[0.02, 0.98],
     ):

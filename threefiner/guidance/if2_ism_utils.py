@@ -37,7 +37,7 @@ class IF2(nn.Module):
         device,
         fp16=True,
         vram_O=False,
-        model_key = "DeepFloyd/IF-II-M-v1.0",
+        model_key = "camenduru/IF-II-M-v1.0",
         t_range=[0.02, 0.50],
     ):
         super().__init__()
